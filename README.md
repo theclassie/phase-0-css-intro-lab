@@ -110,7 +110,5 @@ expect on websites.
 
 - [W3 Introduction to CSS](https://www.w3schools.com/Css/css_intro.asp)
 
-[un-styled]:
-  https://curriculum-content.s3.amazonaws.com/web-development/unstyled-codepen.jpeg
-[styled]:
-  https://curriculum-content.s3.amazonaws.com/web-development/styled-intro-to-css.png
+[un-styled]: https://curriculum-content.s3.amazonaws.com/web-development/unstyled-codepen.jpeg
+[styled]: https://curriculum-content.s3.amazonaws.com/web-development/styled-intro-to-css.png
